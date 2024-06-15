@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94771946691",
-  SUDO_NUMBERS : "94771286812,94719454197",
+  OWNER_NUMBER: "94719754197",
+  SUDO_NUMBERS : "94771286812,94771946691",
   OWNER_NAME: "『 𝙼𝚁 vinuwa 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -33,12 +33,12 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "pudlic",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
-  BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  BAD_WORDS : 'fuck,pussy,hutta,pakaya,ponnaya,kariya',
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
   ANTI_LINK_KICK : false,
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '🤵‍♂️',
+  OWNER_REACT : '👨‍💻',
   AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
